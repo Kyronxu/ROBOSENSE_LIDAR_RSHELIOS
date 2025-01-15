@@ -1,0 +1,2 @@
+rslidar_sdk-v1.5.16
+-DCATKIN_DEVEL_PREFIX=/home/xcmg/wordir/catkin_rslidar/devel -DCMAKE_INSTALL_PREFIX=/home/xcmg/wordir/catkin_rslidar/install -G Unix Makefiles

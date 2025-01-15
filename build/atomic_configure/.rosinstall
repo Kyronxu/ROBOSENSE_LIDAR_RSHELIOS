@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/xcmg/wordir/catkin_rslidar/devel/setup.sh
